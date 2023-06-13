@@ -1,0 +1,12 @@
+Docker is an open source tool that automates the deployment of applications inside software containers,which
+are almost similar to lightweight virtual machines that can run in isolation of each other and the
+running host 
+
+
+Steps for installing Docker
+
+- $ sudo apt update
+
+For learning we use Docker community version 
+- sudo apt install docker.io -y
+
